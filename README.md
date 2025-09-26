@@ -4,6 +4,10 @@ In this lab, you’ve learned real world applications of digital logic, as well
 as how to assemble your own Verilog modules. In addition, you’ve learned how
 the constraints file maps your inputs and outputs to real pins on the FPGA.
 
+## Team 25
+Avien Ramirez & Will Reisig
+
+
 ## Rubric
 
 | Item | Description | Value |
